@@ -36,6 +36,10 @@ Here's what an example for an organization with 500 employees for 2022 could loo
 - public transport share: 40%
 - car share: 35%
 
+Emissions - 2022
+- total: 220.72 t CO2e
+- per employee: 0.44 t CO2e
+
 ![yearly emissions by mode](yearly_emissions_by_mode.png 'yearly emissions by mode')
 
 ![mode and emission shares](mode_and_emission_shares.png 'mode and emission shares')
