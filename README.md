@@ -20,8 +20,8 @@ In general, to calculate an organization's annual employee commuting emissions o
 3. number of office days in the respective period for each employee
 
 One option that comes to mind quickly is to simply ask employees to provide these data.
-But considering data privacy (i. e. the protection of personal data in particular) it is advised against to directly ask employees for such information
-- even if anonymized as there remain challenges regarding storage, security and access to just name a few.
+But considering data privacy (i. e. the protection of personal data in particular) it is advised against to directly ask employees for such information.
+Even if the data are anonymized there remain challenges regarding storage, security and access to just name a few.
 Another more secure option would be to engage an independent external party to create a survey, collect the data and only report back aggregated data.
 This is time-consuming and costs money of course.
 
