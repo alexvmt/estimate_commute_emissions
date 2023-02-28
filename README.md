@@ -45,7 +45,7 @@ Emissions - 2022
 - total: 220.72 t CO2e
 - per employee: 0.44 t CO2e
 
-![yearly emissions by mode](yearly_emissions_by_mode.png 'yearly emissions by mode')
+![annual emissions by mode](annual_emissions_by_mode.png 'annual emissions by mode')
 
 ![mode and emission shares](mode_and_emission_shares.png 'mode and emission shares')
 
