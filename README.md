@@ -35,6 +35,10 @@ All an organization needs to gather are 4 pieces of information to get a rough e
 
 These 4 pieces of information should be fairly easily collected by talking to a couple colleagues or the HR department.
 
+
+
+## Example
+
 Here's what an example for an organization with 500 employees for 2022 could look like:
 - public transport share: 40%
 - car share: 35%
